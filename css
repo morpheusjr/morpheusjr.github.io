@@ -34,3 +34,37 @@ body{
     margin-top: 70px;
     margin-left: 70px
 }
+.cortexto{
+    color:#2b1c47
+}
+.fontetexto{
+    font-size: 54px;
+    font-family: Sans-serif Roboto
+}
+.margemaddtop{
+    padding-top: 250px;
+}
+.margemsubtexto{
+    margin-left:95px;
+}
+.fontesubtexto{
+    font-size: 24px;
+    font-family: Sans-serif Roboto
+}
+.btn{
+    margin-left:195px;
+    margin-top: 10px;
+    font-family: Sans-serif Roboto;
+    font-size: 24px;
+    background-color:#2b1c47;
+    cursor:pointer;
+    color:#ffffff;
+    border-radius: 0.5em;
+}
+
+.btn:hover,  .btn:focus, .btn:active {
+    background-color:#150b27;
+    color:#ffffff;
+    border: none;
+}    
+
